@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("../imagenes/wp8491045-el-cuarteto-de-nos-wallpapers.jpg");
+    background-size: cover; 
+   
+}
+
+.contenido {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); /* Color de fondo con opacidad */
+}
+
+.menu {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+ }
